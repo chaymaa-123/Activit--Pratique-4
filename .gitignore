@@ -1,0 +1,5 @@
+.venv/
+./inspectionProfiles
+.idea/
+household_power_consumption.txt
+*.zip
